@@ -1,12 +1,12 @@
 /**************************************
- TITLE: jQuery							<----- Update the file name
- AUTHOR: Some Amazing Student, Jr. (SAS)			<----- *Your* name should be here
+ TITLE: externalAlert.js					<----- Update the file name
+ AUTHOR: Jared Schoolcraft (JS)					<----- *Your* name should be here
  CREATE DATE: 5 July 2013
- PURPOSE: To develop good software engineeering skills		<----- Also update the purpose of the file
- LAST MODIFIED ON: 7 May 2015
- LAST MODIFIED BY: Some A. Student (SAS)
+ PURPOSE: To learn about web-development			<----- Also update the purpose of the file
+ LAST MODIFIED ON: 11 January 2019
+ LAST MODIFIED BY: Jared Schoolcraft (JS)
  MODIFICATION HISTORY:
- 7 May 2015: Add comments (SAS)
+ 11 January 2019: Changed header block and updated alert message (JS)
 ***************************************/
 
 // The $ is the jQuery object
@@ -17,7 +17,7 @@
 // See pages 312-313 of the text for details.
 $(document).ready(function(){
 			
-	// Pop up a window that says "Here's a javascript test file!"
-	alert("Here's a javascript test file!");
+	// Pop up a window that says "Can't wait to develop this website!"
+	alert("Can't wait to develop this website!");
 				
 }); // end of $(document).ready()
